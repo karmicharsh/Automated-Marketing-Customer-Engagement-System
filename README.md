@@ -14,7 +14,6 @@ A modern marketing automation dashboard built with React and TypeScript that dem
 ## Tech Stack
 
 - React.js
-- TypeScript
 - Tailwind CSS
 - Recharts for analytics
 - React Router for navigation
